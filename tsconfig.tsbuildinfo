@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/types.ts","./src/components/appointmentspage.tsx","./src/components/billingpage.tsx","./src/components/dashboardpage.tsx","./src/components/inventorypage.tsx","./src/components/loginpage.tsx","./src/components/logo.tsx","./src/components/patientspage.tsx","./src/components/staffsettingspage.tsx"],"version":"5.9.3"}
